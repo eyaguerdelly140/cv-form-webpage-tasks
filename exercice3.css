@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+fieldset{
+    width: 50%;
+    height: 140%;
+    margin-bottom: 7px;
+}
+
+input{
+    margin-left: 200px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    padding-left: 200px;
+    align-items: center;
+   
+}
+
+ .btn1{
+    margin-right: 10px;
+}
+
+
+

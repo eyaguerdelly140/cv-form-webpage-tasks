@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.containerAll{
+    margin: 10px 20px;
+}
+.header1{
+    display: flex;
+    background-color: #cccc99;
+    color: blue;
+    height: 100px;
+}
+
+
+img{
+    height: 85px;
+    width: 85px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.title{
+    margin-left: 400px;
+    margin-top: 25px;
+}
+.container{
+    margin-top: 20px;
+    display: flex;
+    height: 450px;
+    
+    
+}
+.planCours{
+    background-color: #ccffff;
+    margin-bottom: 20px;
+    height: 450px;
+    width: 400px;
+   
+}
+h3{
+    padding-left: 20px;
+    padding-top: 35px;
+}
+ol{
+    color: #33ccff;
+    padding-left: 50px;
+    list-style-type: upper-roman;
+    
+}
+li{
+    padding-top: 15px;
+  
+}
+li a{
+    color: #33ccff;
+}
+li ul li{
+    color: #33ccff;
+    list-style-type: disc;
+}
+.ficheCours{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    width: 1000px;
+    height: 450px;
+    background-color: #33ccff;
+}
+h2 {
+    padding-left: 360px;
+    padding-top: 35px;
+}
+.tableContainer{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.table1{
+    border-collapse: collapse;
+    margin-right: 120px;
+}
+td {
+    padding: 10px;
+    border: 1px solid #000;
+  }
+footer{
+    background-color: #cccc99;
+    margin-top: 20px;
+    height: 80px;
+    
+}
+.footerContainer{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 35px;
+}
+.ensi{
+    padding-left: 30px;
+}
+nav p{
+    padding-right: 30px;
+}
+table{
+    border-collapse: collapse;
+}
+.table3{
+    border-collapse: collapse;
+}
+.mail{
+    color: blue;
+}
+
+nav p{
+    color: rgb(41, 41, 91);
+}
